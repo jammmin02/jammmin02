@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule: # 매일 03:00 KST 실행
     - cron: "0 18 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # 수동 실행 가능하게 설정
 
 jobs:
   build:
@@ -15,8 +15,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
-          USERNAME: ${{ github.repository_owner }} 
-      - name: Commit & Push
+          USERNAME: ${{ github.repository_owner }}
+          TIMEZONE: Asia/Seoul
       - name: Commit & Push
         run: |
           git config --global user.name "jammmin02"
@@ -24,5 +24,3 @@ jobs:
           git add .
           git commit -m "generated" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/jammmin02/jammmin02.git main
-
-
