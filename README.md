@@ -20,8 +20,8 @@
 
 ## 🚀 Contribution Graph
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=jammmin02&theme=nord" />
+  <a href="https://github.com/jammmin02">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jammmin02&theme=github-dark" />
   </a>
 </div>
 
