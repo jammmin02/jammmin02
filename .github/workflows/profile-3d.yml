@@ -17,10 +17,12 @@ jobs:
           GIST_ID: ${{ secrets.GIST_ID }}
           USERNAME: ${{ github.repository_owner }} 
       - name: Commit & Push
+      - name: Commit & Push
         run: |
           git config --global user.name "jammmin02"
           git config --global user.email "jmkm1201@naver.com"
           git add .
           git commit -m "generated" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/jammmin02/jammmin02.git main
+
 
