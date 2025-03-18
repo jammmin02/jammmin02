@@ -15,6 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
+          USERNAME: ${{ github.repository_owner }} 
       - name: Commit & Push
         run: |
           git config --global user.name "jammmin02"
