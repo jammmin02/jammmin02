@@ -8,11 +8,11 @@
 
 ## 📊 GitHub Stats & Most Used Languages
 <div align="center">
-  <a href="https://github.com/dkssud8150">
-    <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="49%" />
+  <a href="https://github.com/jammmin02">
+    <img src="https://github-readme-stats.vercel.app/api?username=jammmin02&theme=tokyonight&show_icons=true" width="49%" />
   </a>
-  <a href="https://github.com/dkssud8150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="49%" />
+  <a href="https://github.com/jammmin02">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jammmin02&exclude_repo=jammmin02.github.io&layout=compact&theme=tokyonight" width="49%" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
 ## 🚀 Contribution Graph
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=jammmin02&theme=nord" />
   </a>
 </div>
 
@@ -29,11 +29,11 @@
 
 ## 🏆 GitHub Profile Summary & Streaks
 <div align="center">
-  <a href="https://github.com/dkssud8150">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark" width="80%" />
+  <a href="https://github.com/jammmin02">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jammmin02&theme=nord_dark" width="80%" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkssud8150&theme=tokyonight" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jammmin02&theme=tokyonight" width="49%" />
   </a>
 </div>
 
@@ -49,6 +49,6 @@
 ## 👀 Visitor Count
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjammmin02%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" />
   </a>
 </div>
