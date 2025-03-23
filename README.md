@@ -17,13 +17,22 @@
 </div>
 
 ---
-
-## 🧩 Contribution Summary
+## 🧩 GitHub Overview Cards
 <div align="center">
-  <a href="https://github.com/jammmin02">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jammmin02&theme=nord_dark" width="80%" />
-  </a>
+
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jammmin02&theme=nord_dark" width="95%" />
+
+  <!-- Languages by Repo & Commit -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jammmin02&theme=nord_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jammmin02&theme=nord_dark" width="48%" />
+
+  <!-- Stats & Commit Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jammmin02&theme=nord_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jammmin02&theme=nord_dark" width="48%" />
+
 </div>
+
 
 ---
 
