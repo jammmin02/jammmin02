@@ -18,10 +18,10 @@
 
 ---
 
-## 🚀 Contribution Graph
+## 🧩 Contribution Summary
 <div align="center">
   <a href="https://github.com/jammmin02">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jammmin02&theme=github-dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jammmin02&theme=nord_dark" width="80%" />
   </a>
 </div>
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 🌟 3D Contribution Graph
+## 🌈 3D Contribution Graph
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
 </div>
