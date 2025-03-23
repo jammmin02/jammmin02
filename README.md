@@ -11,10 +11,10 @@
 <div align="center">
 
   <!-- Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jammmin02&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jammmin02&theme=solarized_dark" width="48%" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jammmin02&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jammmin02&theme=solarized_dark" width="48%" />
 
 </div>
 
@@ -25,13 +25,13 @@
 <div align="center">
 
   <!-- Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jammmin02&theme=tokyonight" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jammmin02&theme=solarized_dark" width="95%" />
 
   <!-- Languages by Commit -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jammmin02&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jammmin02&theme=solarized_dark" width="48%" />
   
   <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jammmin02&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jammmin02&theme=solarized_dark" width="48%" />
 
 </div>
 
@@ -40,7 +40,7 @@
 <!-- 🔥 Streak Info -->
 ## 🔥 GitHub Streaks
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jammmin02&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jammmin02&theme=solarized-dark" width="60%" />
 </div>
 
 
