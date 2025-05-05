@@ -6,14 +6,38 @@
 
 ---
 
-<!-- 🛠️ Skills -->
+<!-- 🧑‍💻 About Me -->
+## 🧑‍💻 About Me
+- 🌱 글로벌시스템융합과 재학 중, AI와 웹 개발에 흥미를 갖고 있어요.
+- 🧠 최근엔 Jetson Nano로 실시간 소음 분석 시스템을 개발하고 있어요.
+- 🐣 Java와 JavaScript도 함께 공부 중입니다.
+- 🏃‍♂️ 항상 배우고, 실험하고, 협업합니다!
+
+---
+
+<!-- 💻 Skills -->
 ## 💻 Skills
+
+### 🖥️ Languages & Web
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
+
+### 🤖 Embedded / AI
+<div align="center">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</div>
+
+### 🔧 Tools & Others
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 ---
