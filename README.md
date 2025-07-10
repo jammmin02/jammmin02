@@ -1,12 +1,12 @@
-<!-- 🐾 귀여운 동물 헤더 -->
+<!--  귀여운 동물 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐾🐶🐱🐰🐻‍❄️&fontAlign=70)
 
-<!-- 👋 인사 메시지 -->
+<!--  인사 메시지 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖;Welcome+to+my+GitHub+Jungle!🦁🌿;Enjoy+coding+with+me+💻✨&font=Redressed&size=40)](https://git.io/typing-svg)
 
 ---
 
-<!-- 🧑‍💻 About Me -->
+<!--  About Me -->
 ## 🧑‍💻 About Me
 - 🌱 글로벌시스템융합과 재학 중, AI와 웹 개발에 흥미를 갖고 있어요.
 - 🧠 최근엔 Jetson Nano로 실시간 소음 분석 시스템을 개발하고 있어요.
@@ -15,7 +15,7 @@
 
 ---
 
-<!-- 💻 Skills -->
+<!--  Skills -->
 ## 💻 Skills
 
 ### 🖥️ Languages & Web
@@ -42,7 +42,7 @@
 
 ---
 
-<!-- 📊 GitHub Stats & Languages -->
+<!--  GitHub Stats & Languages -->
 ## 📊 GitHub Stats & Languages
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-<!-- 🧩 GitHub Overview -->
+<!-- GitHub Overview -->
 ## 🧩 GitHub Overview
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-<!-- 🔥 Streak Info -->
+<!-- Streak Info -->
 ## 🔥 GitHub Streaks
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jammmin02&theme=tokyonight" width="60%" />
@@ -81,7 +81,7 @@
 
 ---
 
-<!-- 🌈 3D Graph -->
+<!-- 3D Graph -->
 ## 🌈 3D Contribution Graph
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
@@ -89,7 +89,7 @@
 
 ---
 
-<!-- 📈 Activity Graph -->
+<!-- Activity Graph -->
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jammmin02&theme=tokyo-night&area=true&hide_border=true" width="95%" />
