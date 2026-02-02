@@ -81,14 +81,6 @@
 
 ---
 
-<!-- 3D Graph -->
-## 3D Contribution Graph
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
-</div>
-
----
-
 <!-- Activity Graph -->
 ## Activity Graph
 <div align="center">
@@ -97,7 +89,7 @@
 
 ---
 
-<!-- 👀 Visitor Count -->
+<!-- Visitor Count -->
 ## Visitor Count
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jammmin02&style=flat-square&color=blue" />
